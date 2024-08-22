@@ -1,0 +1,13 @@
+{
+  "name": "html-parser",
+  "version": "1.0.0",
+  "description": "A simple Node.js script to parse HTML and extract project name, commit description, and commit date using regex.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
