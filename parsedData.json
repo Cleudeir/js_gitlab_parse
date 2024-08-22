@@ -1,26 +1,78 @@
 {
   "21/08/2024": [
     {
-      "projectName": "CBTC_APP_NOVO",
+      "projectName": "App",
+      "commitDescription": "upgrade to 0.75.2 react native",
+      "commitHours": "10:01"
+    },
+    {
+      "projectName": "copm_cli",
+      "commitDescription": "Feat: change qr code carteirinha",
+      "commitHours": "12:52"
+    },
+    {
+      "projectName": "copm_cli",
       "commitDescription": "package json",
       "commitHours": "13:48"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "Fix: cadastro de equipamentos",
+      "commitHours": "14:22"
     }
   ],
   "20/08/2024": [
+    {
+      "projectName": "logistik-app",
+      "commitDescription": "Fix: sitema de pagamento",
+      "commitHours": "10:25"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "Feat: Botão de solicitar suporte",
+      "commitHours": "14:44"
+    },
     {
       "projectName": "CBTC_APP_NOVO",
       "commitDescription": "Fix: Card Modalidade",
       "commitHours": "14:49"
     },
     {
-      "projectName": "CBTC_APP_NOVO",
-      "commitDescription": "Fix: sitema de pagamento",
-      "commitHours": "10:25"
+      "projectName": "App",
+      "commitDescription": "Update versão Android",
+      "commitHours": "17:25"
+    },
+    {
+      "projectName": "App",
+      "commitDescription": "start",
+      "commitHours": "17:28"
+    },
+    {
+      "projectName": "App",
+      "commitDescription": "pasta ios",
+      "commitHours": "17:33"
+    },
+    {
+      "projectName": "App",
+      "commitDescription": "Teste",
+      "commitHours": "17:49"
+    }
+  ],
+  "19/08/2024": [
+    {
+      "projectName": "logistik-app",
+      "commitDescription": "FIx: bug compilação dev",
+      "commitHours": "11:00"
     }
   ],
   "15/08/2024": [
     {
-      "projectName": "logistik-app",
+      "projectName": "app",
+      "commitDescription": "Feat: Tela Profile",
+      "commitHours": "11:38"
+    },
+    {
+      "projectName": "app",
       "commitDescription": "Feat: Tela profile",
       "commitHours": "12:43"
     }
@@ -28,20 +80,45 @@
   "14/08/2024": [
     {
       "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "Feat: Dados pessoais cartão pagamento",
+      "commitHours": "9:36"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "Feat: Atualização pasta android",
+      "commitHours": "13:45"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
       "commitDescription": "Feat: Nome app",
       "commitHours": "14:15"
     },
     {
       "projectName": "CBTC_APP_NOVO",
-      "commitDescription": "Feat: Dados pessoais cartão pagamento",
-      "commitHours": "9:36"
+      "commitDescription": "Atualização da versão",
+      "commitHours": "14:37"
+    },
+    {
+      "projectName": "app",
+      "commitDescription": "Feat: Tela Perfil",
+      "commitHours": "16:54"
+    },
+    {
+      "projectName": "app",
+      "commitDescription": "Tela profile",
+      "commitHours": "17:57"
     }
   ],
   "13/08/2024": [
     {
-      "projectName": "CBTC_APP_NOVO",
-      "commitDescription": "Fix: validação do nome",
-      "commitHours": "15:24"
+      "projectName": "app-novo",
+      "commitDescription": "version",
+      "commitHours": "7:47"
+    },
+    {
+      "projectName": "HortApp_app",
+      "commitDescription": "Fix: Input max length",
+      "commitHours": "7:49"
     },
     {
       "projectName": "CBTC_APP_NOVO",
@@ -49,16 +126,41 @@
       "commitHours": "9:07"
     },
     {
-      "projectName": "HortApp_app",
-      "commitDescription": "version",
-      "commitHours": "7:47"
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "Android testes",
+      "commitHours": "10:36"
+    },
+    {
+      "projectName": "app",
+      "commitDescription": "Feat: Validação fluxo cadastro",
+      "commitHours": "11:53"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "Fix: validação do nome",
+      "commitHours": "15:24"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "fix: service",
+      "commitHours": "15:25"
+    },
+    {
+      "projectName": "app",
+      "commitDescription": "Documentação",
+      "commitHours": "17:36"
     }
   ],
   "12/08/2024": [
     {
-      "projectName": "CBTC_APP_NOVO",
-      "commitDescription": "Feat: teste",
-      "commitHours": "17:06"
+      "projectName": "Kardie_app",
+      "commitDescription": "Fix: ajuste IOS",
+      "commitHours": "12:59"
+    },
+    {
+      "projectName": "Kardie_app",
+      "commitDescription": "Fix: Alert",
+      "commitHours": "13:21"
     },
     {
       "projectName": "Kardie_app",
@@ -67,11 +169,31 @@
     },
     {
       "projectName": "Kardie_app",
-      "commitDescription": "Fix: ajuste IOS",
-      "commitHours": "12:59"
+      "commitDescription": "Fix: Modal Tela de pagamento",
+      "commitHours": "15:50"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "Feat: teste",
+      "commitHours": "17:06"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "Preparação App Android para loja",
+      "commitHours": "17:27"
     }
   ],
   "11/08/2024": [
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "ios",
+      "commitHours": "8:56"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "Build ok",
+      "commitHours": "12:13"
+    },
     {
       "projectName": "CBTC_APP_NOVO",
       "commitDescription": "Feat: setUp teste working",
@@ -79,37 +201,74 @@
     },
     {
       "projectName": "CBTC_APP_NOVO",
-      "commitDescription": "ios",
-      "commitHours": "8:56"
+      "commitDescription": "Feat: Teste login",
+      "commitHours": "14:34"
+    }
+  ],
+  "09/08/2024": [
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "Fix: adicionado react-native-video",
+      "commitHours": "15:05"
     }
   ],
   "08/08/2024": [
     {
-      "projectName": "CBTC_APP_NOVO",
-      "commitDescription": "Feat: compress vídeo",
-      "commitHours": "17:51"
+      "projectName": "app",
+      "commitDescription": "Feat: Tela Notificações",
+      "commitHours": "9:51"
     },
     {
       "projectName": "CBTC_APP_NOVO",
       "commitDescription": "Fix: Alert IOS",
       "commitHours": "11:55"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "Feat: Validation signUp, compressão de vídeo e imagem",
+      "commitHours": "17:28"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "Feat: compress vídeo",
+      "commitHours": "17:51"
     }
   ],
   "07/08/2024": [
     {
       "projectName": "CBTC_APP_NOVO",
-      "commitDescription": "update package",
-      "commitHours": "16:31"
+      "commitDescription": "teste",
+      "commitHours": "9:32"
     },
     {
       "projectName": "CBTC_APP_NOVO",
       "commitDescription": "Feat: Mostrar versão do App",
       "commitHours": "11:04"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "Feat: Adicionado validações no pagamento",
+      "commitHours": "13:49"
+    },
+    {
+      "projectName": "app",
+      "commitDescription": "update package",
+      "commitHours": "16:31"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "compilação falhando",
+      "commitHours": "16:48"
+    },
+    {
+      "projectName": "app",
+      "commitDescription": "Feat: Adicionado tela de Unidade de medida",
+      "commitHours": "17:57"
     }
   ],
   "06/08/2024": [
     {
-      "projectName": "CBTC_APP_NOVO",
+      "projectName": "supermecado_app",
       "commitDescription": "chave",
       "commitHours": "16:27"
     }
@@ -117,18 +276,33 @@
   "05/08/2024": [
     {
       "projectName": "CBTC_APP_NOVO",
-      "commitDescription": "Feat: Gerenciador de versão",
-      "commitHours": "15:28"
+      "commitDescription": "Feat: Firebase push IOS",
+      "commitHours": "10:46"
     },
     {
       "projectName": "Kardie_app",
+      "commitDescription": "Feat: Ajuste layout IOS",
+      "commitHours": "12:48"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
       "commitDescription": "Fix: keyboardAvoiding",
       "commitHours": "13:10"
     },
     {
       "projectName": "Kardie_app",
-      "commitDescription": "Feat: Firebase push IOS",
-      "commitHours": "10:46"
+      "commitDescription": "version",
+      "commitHours": "14:07"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "Feat: Gerenciador de versão",
+      "commitHours": "15:28"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "Feat: Versionamento",
+      "commitHours": "15:35"
     }
   ],
   "01/08/2024": [
@@ -136,30 +310,60 @@
       "projectName": "CBTC_APP_NOVO",
       "commitDescription": "Feat: ajuste tela denuncia",
       "commitHours": "11:19"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "Feat: parcelamento",
+      "commitHours": "15:24"
     }
   ],
   "31/07/2024": [
+    {
+      "projectName": "copm_cli",
+      "commitDescription": "Feat: Validação da escolha de outro pagamento",
+      "commitHours": "9:59"
+    },
+    {
+      "projectName": "app",
+      "commitDescription": "Feat: Ajuste carrossel",
+      "commitHours": "10:51"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "Fix: Pagamento",
+      "commitHours": "16:40"
+    },
+    {
+      "projectName": "app",
+      "commitDescription": "Fix: add limit campo raio",
+      "commitHours": "17:06"
+    },
+    {
+      "projectName": "Kardie_app",
+      "commitDescription": "Chave playstore",
+      "commitHours": "17:43"
+    },
     {
       "projectName": "CBTC_APP_NOVO",
       "commitDescription": "Feat: push Notification",
       "commitHours": "18:14"
     },
     {
-      "projectName": "Kardie_app",
-      "commitDescription": "Fix: add limit campo raio",
-      "commitHours": "17:06"
-    },
-    {
       "projectName": "CBTC_APP_NOVO",
-      "commitDescription": "Feat: Ajuste carrossel",
-      "commitHours": "10:51"
+      "commitDescription": "Fix: DarkMode",
+      "commitHours": "18:31"
     }
   ],
   "30/07/2024": [
     {
       "projectName": "CBTC_APP_NOVO",
-      "commitDescription": "remove isFree",
-      "commitHours": "16:04"
+      "commitDescription": "Feat: novo gateway pagamento",
+      "commitHours": "9:35"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "Fix: keyboardTypes",
+      "commitHours": "10:21"
     },
     {
       "projectName": "CBTC_APP_NOVO",
@@ -168,22 +372,52 @@
     },
     {
       "projectName": "CBTC_APP_NOVO",
-      "commitDescription": "Feat: novo gateway pagamento",
-      "commitHours": "9:35"
+      "commitDescription": "Fix: Ajuste sobreposição teclado ao input no IOS",
+      "commitHours": "15:57"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "remove isFree",
+      "commitHours": "16:04"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "Feat: refactor input",
+      "commitHours": "18:21"
     }
   ],
   "29/07/2024": [
     {
+      "projectName": "app",
+      "commitDescription": "Feat: Lista de paises",
+      "commitHours": "11:04"
+    },
+    {
       "projectName": "CBTC_APP_NOVO",
       "commitDescription": "Feat: mudança gateway e tela pagamento cartão",
       "commitHours": "12:12"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "Feat: migração gateway pagamento",
+      "commitHours": "18:01"
     }
   ],
   "25/07/2024": [
     {
       "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "ios",
+      "commitHours": "11:55"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
       "commitDescription": "Fix: ajuste pagamento",
       "commitHours": "15:21"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "Fix: IOS permissions",
+      "commitHours": "17:51"
     }
   ]
 }

@@ -1,7 +1,7 @@
 const fs = require("fs");
 
 const regex =
-  /<span class="project-name">([^<]+).*?<time .*? title="([^"]+).*?datetime="([^"]+)".*?<a class="commit-sha".*?<\/a>.*?(.*?)<\/div>/gs;
+  /<time .*?title="(.*?)".*?datetime="(.*?)".*?class="project-name">([^<]+).*?<a class="commit-sha".*?<\/a>.*?.(.*?)<\/div>/gs;
 
 fs.readFile("file.html", "utf8", (err, data) => {
   if (err) {
@@ -13,9 +13,9 @@ fs.readFile("file.html", "utf8", (err, data) => {
 
   const parsedData = matches.map((match, index) => {
     if (index === 0) {
-      console.log("match: ", match[4]);
+      console.log("match: ", match[1]);
     }
-    const [formattedDateTime] = match[3].split(" ");
+    const [formattedDateTime] = match[2].split(" ");
     const [date, time] = formattedDateTime.split("T");
     const [year, month, day] = date.split("-");
     let [hour, minute] = time.split(":");
@@ -23,7 +23,7 @@ fs.readFile("file.html", "utf8", (err, data) => {
     const formattedDate = `${day}/${month}/${year}`;
     const formattedTime = `${parseInt(hour, 10)}:${minute}`;
     return {
-      projectName: match[1],
+      projectName: match[3],
       commitDescription: match[4],
       commitDate: formattedDate,
       formattedDateTime,
@@ -31,12 +31,17 @@ fs.readFile("file.html", "utf8", (err, data) => {
     };
   });
 
-  // Sort the parsed data by commitDate
-  parsedData.sort(
-    (a, b) => new Date(b.formattedDateTime) - new Date(a.formattedDateTime)
-  );
+  // Sort the parsed data by commitDate and then by commitHours
+  parsedData.sort((a, b) => {
+    const dateComparison =
+      new Date(b.formattedDateTime) - new Date(a.formattedDateTime);
+    if (dateComparison !== 0) return dateComparison;
+    return a.commitHours.localeCompare(b.commitHours, undefined, {
+      numeric: true,
+    });
+  });
 
-  const sortedByDate = parsedData.reduce((acc, item) => {
+  let sortedByDate = parsedData.reduce((acc, item) => {
     const dateKey = item.commitDate;
     if (!acc[dateKey]) {
       acc[dateKey] = [];
@@ -52,15 +57,19 @@ fs.readFile("file.html", "utf8", (err, data) => {
     return acc;
   }, {});
 
-  fs.writeFile(
-    "parsedData.json",
-    JSON.stringify(sortedByDate, null, 2),
-    (err) => {
-      if (err) {
-        console.error("Error writing to file:", err);
-        return;
-      }
-      console.log("Parsed data has been saved to parsedData.json");
+  const reverse = {};
+  for (const key in sortedByDate) {
+    if (Object.prototype.hasOwnProperty.call(sortedByDate, key)) {
+      const element = sortedByDate[key];
+      reverse[key] = element.reverse();
     }
-  );
+  }
+
+  fs.writeFile("parsedData.json", JSON.stringify(reverse, null, 2), (err) => {
+    if (err) {
+      console.error("Error writing to file:", err);
+      return;
+    }
+    console.log("Parsed data has been saved to parsedData.json");
+  });
 });
