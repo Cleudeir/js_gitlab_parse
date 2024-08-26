@@ -1,4 +1,38 @@
 {
+  "26/08/2024": [
+    {
+      "projectName": "copm_cli",
+      "commitDescription": "Fix: Preparacao IOS",
+      "commitHours": "11:23"
+    },
+    {
+      "projectName": "copm_cli",
+      "commitDescription": "url produção",
+      "commitHours": "12:10"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "release script",
+      "commitHours": "12:23"
+    }
+  ],
+  "22/08/2024": [
+    {
+      "projectName": "copm_cli",
+      "commitDescription": "Publicação Android",
+      "commitHours": "16:36"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "Fix: chat denúncia!",
+      "commitHours": "17:26"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "Versionamento",
+      "commitHours": "17:36"
+    }
+  ],
   "21/08/2024": [
     {
       "projectName": "App",
@@ -73,6 +107,16 @@
     },
     {
       "projectName": "app",
+      "commitDescription": "Feat: Tela Profile",
+      "commitHours": "11:38"
+    },
+    {
+      "projectName": "app",
+      "commitDescription": "Feat: Tela profile",
+      "commitHours": "12:43"
+    },
+    {
+      "projectName": "app",
       "commitDescription": "Feat: Tela profile",
       "commitHours": "12:43"
     }
@@ -82,6 +126,16 @@
       "projectName": "CBTC_APP_NOVO",
       "commitDescription": "Feat: Dados pessoais cartão pagamento",
       "commitHours": "9:36"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "Feat: Dados pessoais cartão pagamento",
+      "commitHours": "9:36"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "Feat: Atualização pasta android",
+      "commitHours": "13:45"
     },
     {
       "projectName": "CBTC_APP_NOVO",
@@ -95,6 +149,16 @@
     },
     {
       "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "Feat: Nome app",
+      "commitHours": "14:15"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "Atualização da versão",
+      "commitHours": "14:37"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
       "commitDescription": "Atualização da versão",
       "commitHours": "14:37"
     },
@@ -102,6 +166,16 @@
       "projectName": "app",
       "commitDescription": "Feat: Tela Perfil",
       "commitHours": "16:54"
+    },
+    {
+      "projectName": "app",
+      "commitDescription": "Feat: Tela Perfil",
+      "commitHours": "16:54"
+    },
+    {
+      "projectName": "app",
+      "commitDescription": "Tela profile",
+      "commitHours": "17:57"
     },
     {
       "projectName": "app",
@@ -116,6 +190,16 @@
       "commitHours": "7:47"
     },
     {
+      "projectName": "app-novo",
+      "commitDescription": "version",
+      "commitHours": "7:47"
+    },
+    {
+      "projectName": "HortApp_app",
+      "commitDescription": "Fix: Input max length",
+      "commitHours": "7:49"
+    },
+    {
       "projectName": "HortApp_app",
       "commitDescription": "Fix: Input max length",
       "commitHours": "7:49"
@@ -127,8 +211,23 @@
     },
     {
       "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "teste",
+      "commitHours": "9:07"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
       "commitDescription": "Android testes",
       "commitHours": "10:36"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "Android testes",
+      "commitHours": "10:36"
+    },
+    {
+      "projectName": "app",
+      "commitDescription": "Feat: Validação fluxo cadastro",
+      "commitHours": "11:53"
     },
     {
       "projectName": "app",
@@ -142,8 +241,23 @@
     },
     {
       "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "Fix: validação do nome",
+      "commitHours": "15:24"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
       "commitDescription": "fix: service",
       "commitHours": "15:25"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "fix: service",
+      "commitHours": "15:25"
+    },
+    {
+      "projectName": "app",
+      "commitDescription": "Documentação",
+      "commitHours": "17:36"
     },
     {
       "projectName": "app",
@@ -169,6 +283,16 @@
     },
     {
       "projectName": "Kardie_app",
+      "commitDescription": "Fix: alert",
+      "commitHours": "13:25"
+    },
+    {
+      "projectName": "Kardie_app",
+      "commitDescription": "Fix: Modal Tela de pagamento",
+      "commitHours": "15:50"
+    },
+    {
+      "projectName": "Kardie_app",
       "commitDescription": "Fix: Modal Tela de pagamento",
       "commitHours": "15:50"
     },
@@ -176,6 +300,16 @@
       "projectName": "CBTC_APP_NOVO",
       "commitDescription": "Feat: teste",
       "commitHours": "17:06"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "Feat: teste",
+      "commitHours": "17:06"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "Preparação App Android para loja",
+      "commitHours": "17:27"
     },
     {
       "projectName": "CBTC_APP_NOVO",
@@ -386,38 +520,444 @@
       "commitHours": "18:21"
     }
   ],
-  "29/07/2024": [
+  "17/07/2024": [
     {
       "projectName": "app",
-      "commitDescription": "Feat: Lista de paises",
-      "commitHours": "11:04"
+      "commitDescription": "Feat: integração tela idiomas",
+      "commitHours": "12:25"
+    }
+  ],
+  "16/07/2024": [
+    {
+      "projectName": "app",
+      "commitDescription": "Refactory: mudança tela termo de uso",
+      "commitHours": "11:16"
+    },
+    {
+      "projectName": "app",
+      "commitDescription": "Feat: cep automático",
+      "commitHours": "11:43"
+    },
+    {
+      "projectName": "app",
+      "commitDescription": "feat: formulário de interesses",
+      "commitHours": "15:34"
+    },
+    {
+      "projectName": "app",
+      "commitDescription": "refactory: Dev variavle moks acess login",
+      "commitHours": "17:41"
+    }
+  ],
+  "15/07/2024": [
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "Feat: Adicionado cadastro de cortesia/cupom e novos campos no cadastro",
+      "commitHours": "13:03"
+    },
+    {
+      "projectName": "Kardie_app",
+      "commitDescription": "Preparo para publicação Android",
+      "commitHours": "15:36"
+    },
+    {
+      "projectName": "Kardie_app",
+      "commitDescription": "chore: Updated build tools, SDK versions; fixed JSON syntax error; ...",
+      "commitHours": "17:55"
+    }
+  ],
+  "11/07/2024": [
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "Feat: cupom desconto",
+      "commitHours": "15:43"
+    },
+    {
+      "projectName": "gotogether-aplicativo",
+      "commitDescription": "build app",
+      "commitHours": "16:39"
     },
     {
       "projectName": "CBTC_APP_NOVO",
-      "commitDescription": "Feat: mudança gateway e tela pagamento cartão",
+      "commitDescription": "refactor: Update sigma handling &amp; logging params/body",
+      "commitHours": "16:40"
+    },
+    {
+      "projectName": "app",
+      "commitDescription": "Feat: termo de uso",
+      "commitHours": "17:16"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "feat: desconto",
+      "commitHours": "18:21"
+    }
+  ],
+  "10/07/2024": [
+    {
+      "projectName": "app",
+      "commitDescription": "feat: refactor Auth components; update UI/UX; add new recovery logi...",
+      "commitHours": "14:18"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "Refactor: Update Regras component logging &amp; API call handling; styl...",
+      "commitHours": "17:44"
+    }
+  ],
+  "09/07/2024": [
+    {
+      "projectName": "app",
+      "commitDescription": "- docs: Update user credentials for login component.",
+      "commitHours": "12:42"
+    },
+    {
+      "projectName": "gotogether-aplicativo",
+      "commitDescription": "Fix: Permissão IOS",
+      "commitHours": "15:19"
+    },
+    {
+      "projectName": "app",
+      "commitDescription": "Feat: Tela termos",
+      "commitHours": "17:58"
+    }
+  ],
+  "08/07/2024": [
+    {
+      "projectName": "app",
+      "commitDescription": "Feat: change name app",
+      "commitHours": "9:31"
+    },
+    {
+      "projectName": "app",
+      "commitDescription": "Feat: Forms cadastro",
+      "commitHours": "14:05"
+    },
+    {
+      "projectName": "app",
+      "commitDescription": "Feat: Tela de peso e altura",
+      "commitHours": "16:40"
+    },
+    {
+      "projectName": "app",
+      "commitDescription": "Feat: formulario dados",
+      "commitHours": "17:41"
+    }
+  ],
+  "04/07/2024": [
+    {
+      "projectName": "app",
+      "commitDescription": "Feat: Validação login",
+      "commitHours": "12:57"
+    },
+    {
+      "projectName": "app",
+      "commitDescription": "Feat: tela de cadastro",
+      "commitHours": "17:24"
+    }
+  ],
+  "03/07/2024": [
+    {
+      "projectName": "app",
+      "commitDescription": "Feat: tela de bem vindos",
+      "commitHours": "10:28"
+    },
+    {
+      "projectName": "copm_cli",
+      "commitDescription": "feat: Update payment handling and refactor API mocks, add new charge",
+      "commitHours": "11:45"
+    },
+    {
+      "projectName": "app",
+      "commitDescription": "Feat: Tela login",
+      "commitHours": "16:13"
+    },
+    {
+      "projectName": "copm_cli",
+      "commitDescription": "Fix : Geração pix na tela outros pagamentos",
+      "commitHours": "16:57"
+    },
+    {
+      "projectName": "app",
+      "commitDescription": "feat: Update CustomInput props &amp; useIndex validation",
+      "commitHours": "18:09"
+    }
+  ],
+  "02/07/2024": [
+    {
+      "projectName": "app",
+      "commitDescription": "feat: Refactor architecture, rename method, secure window flags &amp; d...",
+      "commitHours": "13:34"
+    },
+    {
+      "projectName": "app",
+      "commitDescription": "setup",
+      "commitHours": "14:23"
+    },
+    {
+      "projectName": "app",
+      "commitDescription": "start",
+      "commitHours": "16:39"
+    },
+    {
+      "projectName": "app",
+      "commitDescription": "Feat: Tela de idiomas",
+      "commitHours": "17:33"
+    },
+    {
+      "projectName": "app",
+      "commitDescription": "Feat: tela idioma",
+      "commitHours": "17:56"
+    }
+  ],
+  "01/07/2024": [
+    {
+      "projectName": "copm_cli",
+      "commitDescription": "Feat: Ajuste centavos",
+      "commitHours": "10:23"
+    }
+  ],
+  "27/06/2024": [
+    {
+      "projectName": "gotogether-aplicativo",
+      "commitDescription": "feat: Add chat screen functionality, refactor conversation list ren...",
+      "commitHours": "16:30"
+    }
+  ],
+  "26/06/2024": [
+    {
+      "projectName": "copm_cli",
+      "commitDescription": "fix: update currency format handling &amp; add consent disclaimer",
+      "commitHours": "13:52"
+    },
+    {
+      "projectName": "app",
+      "commitDescription": "feat: Add default values for missing sale/rental commission fields",
+      "commitHours": "14:49"
+    }
+  ],
+  "25/06/2024": [
+    {
+      "projectName": "Kardie_app",
+      "commitDescription": "FIx: Historico",
+      "commitHours": "10:23"
+    }
+  ],
+  "24/06/2024": [
+    {
+      "projectName": "Kardie_app",
+      "commitDescription": "feat: update icons",
+      "commitHours": "12:27"
+    },
+    {
+      "projectName": "app",
+      "commitDescription": "feat: Simplify form UI/conditions &amp; enhance dev mode data handling ...",
+      "commitHours": "13:45"
+    }
+  ],
+  "21/06/2024": [
+    {
+      "projectName": "app",
+      "commitDescription": "Fix: Textos modo noturno",
+      "commitHours": "9:05"
+    }
+  ],
+  "20/06/2024": [
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "Feat: Ajuste navigation",
+      "commitHours": "11:41"
+    },
+    {
+      "projectName": "app",
+      "commitDescription": "Fix: set maximo valor imóvel",
+      "commitHours": "12:05"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "Fix: Navigation rename",
+      "commitHours": "14:30"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "Fix: resolve warning key",
+      "commitHours": "14:42"
+    },
+    {
+      "projectName": "Kardie_app",
+      "commitDescription": "Feat: atualização dos Icones",
+      "commitHours": "15:29"
+    },
+    {
+      "projectName": "app",
+      "commitDescription": "Feat: show erro tela itermediação",
+      "commitHours": "15:37"
+    },
+    {
+      "projectName": "copm_cli",
+      "commitDescription": "Fix: removido data de vencimento exibida e correção texto da notifi...",
+      "commitHours": "16:08"
+    },
+    {
+      "projectName": "copm_cli",
+      "commitDescription": "Feat: abrir pasta do apk automaticamente",
+      "commitHours": "16:13"
+    }
+  ],
+  "19/06/2024": [
+    {
+      "projectName": "app",
+      "commitDescription": "Fix: removido botão desfazer contrato do solicitante",
+      "commitHours": "9:18"
+    },
+    {
+      "projectName": "Kardie_app",
+      "commitDescription": "Feat: Alerta tamanho dinâmico",
+      "commitHours": "11:15"
+    },
+    {
+      "projectName": "Kardie_app",
+      "commitDescription": "fix: card expansível",
+      "commitHours": "11:34"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "Feat: Pagamento com somente 1 cartão",
+      "commitHours": "15:43"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "Feat: Remove modal equipamento",
+      "commitHours": "18:06"
+    }
+  ],
+  "18/06/2024": [
+    {
+      "projectName": "app",
+      "commitDescription": "Feat: Mudar parceria para intermediaçao e icon",
+      "commitHours": "10:58"
+    },
+    {
+      "projectName": "app",
+      "commitDescription": "Feat: Exibir codigo card Imóvel",
+      "commitHours": "12:46"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "fix: Radio and CheckBox",
+      "commitHours": "14:13"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "Fix: CustomPicker correção lista vazia",
+      "commitHours": "14:29"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "Fix: update parameters novo equipamento",
+      "commitHours": "14:52"
+    },
+    {
+      "projectName": "app",
+      "commitDescription": "Feat: Verificação token",
+      "commitHours": "16:10"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "Feat: validação de token",
+      "commitHours": "16:27"
+    }
+  ],
+  "17/06/2024": [
+    {
+      "projectName": "copm_cli",
+      "commitDescription": "Feat: Moficação icones de serviços, adiciona busca mensalidade para...",
+      "commitHours": "15:05"
+    },
+    {
+      "projectName": "copm_cli",
+      "commitDescription": "feat: Remove react-native-mask-text, update forms &amp; modify signin b...",
+      "commitHours": "16:50"
+    },
+    {
+      "projectName": "copm_cli",
+      "commitDescription": "Feat: Remove user dependency, refactor handleSignIn; simplify callb...",
+      "commitHours": "18:24"
+    }
+  ],
+  "14/06/2024": [
+    {
+      "projectName": "copm_cli",
+      "commitDescription": "feat: Update Cards, SignIn/ForgotPassword and add User Registration...",
+      "commitHours": "10:35"
+    }
+  ],
+  "13/06/2024": [
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "feat: Enhance mobile app with sports management features",
+      "commitHours": "8:48"
+    },
+    {
+      "projectName": "copm_cli",
+      "commitDescription": "feat: Add forgot password, style sign-in, Remove sign in loading, a...",
+      "commitHours": "10:48"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "Feat: adicionado chave segurança",
+      "commitHours": "15:59"
+    }
+  ],
+  "12/06/2024": [
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "refactor: Improve conditional logic in DevEnv &amp; ModalidadeComponent...",
+      "commitHours": "9:22"
+    },
+    {
+      "projectName": "app",
+      "commitDescription": "feat: improve Location, Tabs Imovel with enhanced features",
+      "commitHours": "14:47"
+    }
+  ],
+  "11/06/2024": [
+    {
+      "projectName": "copm_cli",
+      "commitDescription": "feat: Password reset process updates; add load state &amp; mask user CPF",
+      "commitHours": "10:48"
+    },
+    {
+      "projectName": "copm_cli",
+      "commitDescription": "feat: Streamline notification component, handle long titles, enable...",
+      "commitHours": "12:50"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "Feat: Enhance UI components with improved formatting, conditional a...",
+      "commitHours": "16:04"
+    },
+    {
+      "projectName": "CBTC_APP_NOVO",
+      "commitDescription": "refactor: Negate dev flag check and simplify payment plans display",
+      "commitHours": "16:08"
+    }
+  ],
+  "10/06/2024": [
+    {
+      "projectName": "copm_cli",
+      "commitDescription": "feat: Updated launcher icon and billing data fetching logic with im...",
       "commitHours": "12:12"
     },
     {
-      "projectName": "CBTC_APP_NOVO",
-      "commitDescription": "Feat: migração gateway pagamento",
-      "commitHours": "18:01"
-    }
-  ],
-  "25/07/2024": [
-    {
-      "projectName": "CBTC_APP_NOVO",
-      "commitDescription": "ios",
-      "commitHours": "11:55"
+      "projectName": "copm_cli",
+      "commitDescription": "feat: DigitalCard layout, styles, and avatar removal updates",
+      "commitHours": "16:16"
     },
     {
-      "projectName": "CBTC_APP_NOVO",
-      "commitDescription": "Fix: ajuste pagamento",
-      "commitHours": "15:21"
-    },
-    {
-      "projectName": "CBTC_APP_NOVO",
-      "commitDescription": "Fix: IOS permissions",
-      "commitHours": "17:51"
+      "projectName": "copm_cli",
+      "commitDescription": "feat: Forgot password functionality updated with success alert",
+      "commitHours": "18:03"
     }
   ]
 }
