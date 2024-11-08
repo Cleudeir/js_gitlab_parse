@@ -1,3 +1,6 @@
 ## Project Overview
 
-* This project is a representation of the HTML structure for a GitLab user's activity page. It displays recent activities performed by the user across different projects. 
+* The code represents the HTML structure of a GitLab user's activity page. It displays a list of recent activities performed by the user across different projects, including pushing code to branches, creating new projects, etc.
+
+## Dependencies
+* Nodejs
