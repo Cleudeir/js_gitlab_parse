@@ -4,3 +4,7 @@
 
 ## Dependencies
 * Nodejs
+
+
+## How use
+* start using ` yarn start `
