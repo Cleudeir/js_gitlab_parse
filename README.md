@@ -1,16 +1,15 @@
-
-                # file.html                
-                ## project structure
-                ```                    
-                js_gitlab_parse/
+# js_gitlab_parse               
+## project structure
+```                    
+js_gitlab_parse/
     package-lock.json
     README.md
     index.js
     parsedData.json
     package.json
     file.html                
-                ```
-                ## Propósito e Descrição do Projeto
+```
+## Propósito e Descrição do Projeto
 
 Este projeto consiste em um conjunto de scripts e arquivos que visam extrair, processar e organizar informações de commits de um repositório Git, provavelmente do GitLab, a partir de um arquivo HTML contendo dados de atividade do usuário. O processo inclui a extração de dados usando expressões regulares, ordenação cronológica, agrupamento por data e gravação dos dados processados em um arquivo JSON.  O projeto também inclui um `package.json` definindo as dependências e metadados do projeto, e um `package-lock.json` (ou similar) registrando as versões dos pacotes.
 
