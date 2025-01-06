@@ -1,43 +1,8 @@
-# js_gitlab_parse               
-## project structure
-```                    
-js_gitlab_parse/
-    package-lock.json
-    README.md
-    index.js
-    parsedData.json
-    package.json
-    file.html                
-```
-## Propósito e Descrição do Projeto
+## Summary
 
-Este projeto consiste em um conjunto de scripts e arquivos que visam extrair, processar e organizar informações de commits de um repositório Git, provavelmente do GitLab, a partir de um arquivo HTML contendo dados de atividade do usuário. O processo inclui a extração de dados usando expressões regulares, ordenação cronológica, agrupamento por data e gravação dos dados processados em um arquivo JSON.  O projeto também inclui um `package.json` definindo as dependências e metadados do projeto, e um `package-lock.json` (ou similar) registrando as versões dos pacotes.
+This project involves parsing HTML data from various sources.  One script processes an HTML file containing project commit information, extracts relevant data (project name, commit description, date, time), cleans, sorts, and formats it into a JSON file (`parsedData.json`). Another component focuses on building an HTML parser itself, currently without external dependencies.  The `parsedData.json` file structures the commit data chronologically, grouping commits by date for analysis and reporting. The project uses Node.js, regular expressions, and potentially future improvements include more robust parsing libraries and enhanced error handling.  A `package-lock.json` file indicates the project's basic structure, version, and license.  The `file.html` example shows GitLab activity data, illustrating the type of HTML the commit parsing script could handle.
 
 
-## Dependências
+## Tech Stack
 
-* Dependências serão especificadas no `package.json` (se presente)
-
-
-## Como Instalar
-
-1. Clonar o repositório.
-2. Instalar as dependências:  (comando de instalação, e.g., `npm install`)
-3. (Se necessário) Criar um arquivo `.env` com as configurações necessárias.
-
-
-## Como Usar
-
-O script principal (provavelmente `index.js`) lê o arquivo HTML, extrai as informações relevantes usando expressões regulares, processa os dados (ordenando e agrupando), e grava o resultado em um arquivo JSON (`parsedData.json`).
-
-
-## Arquitetura
-
-A arquitetura é baseada em scripts Node.js utilizando expressões regulares para processamento de texto.  A estrutura é simples, consistindo principalmente de um script principal que lê, processa e grava dados.
-
-
-## Pipeline
-
-O pipeline consiste nas seguintes etapas: 1. Leitura do arquivo HTML; 2. Extração de dados com regex; 3. Processamento e transformação dos dados; 4. Ordenação e agrupamento; 5. Gravação em arquivo JSON.  Não há evidências de um pipeline de CI/CD mais complexo.
-                
-                
+Node.js, JavaScript, Regular Expressions, HTML, JSON, potentially `cheerio` (future),  Webpack (inferred from `file.html`),  GitLab's internal CSS framework (inferred),  Snowplow, Google Analytics, Sentry (inferred from `file.html`),  Timeago library (inferred from `file.html`).
